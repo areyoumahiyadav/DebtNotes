@@ -1,48 +1,88 @@
-Privacy Policy — Debt Notes 2.1
+Privacy Policy — Debt Notes
 
-Debt Notes 2.1 is designed to help users manage their debt and expense records while respecting their privacy.
+​Effective Date: October 20, 2026
 
-1. Information Collection
+App Name: Debt Notes
 
-Debt Notes 2.1 does not collect or send your personal information to the developer, administrator, or any external server.
+Package Name: com.notes.debt
 
-The information you enter into the application, such as debt records, expense details, notes, images, or signatures, is used only for the application's functionality on your device.
+Version: 2.4.0
 
-2. Data Storage
+Developer: Mahi Yadav (rumahiyadav)
 
-Your records are stored locally on your device according to the application's storage implementation.
+​Your debts, expenses, and financial records — all in one place.
 
-The developer does not receive or have access to your records through the application.
+​This Privacy Policy explains how Debt Notes (com.notes.debt) handles your information when you use the application.
 
-3. Data Sharing
+​1. Local & Offline Data Storage
 
-We do not sell, rent, or share your personal information with the developer, administrator, advertisers, or other third parties.
+​Debt Notes is a 100% offline personal notebook application.
 
-4. Internet Access
+​All information you enter into the app—including names, debt amounts, expense entries, notes, reminder dates, and optional proof images—is stored exclusively on your device inside the app's private local storage.
 
-The core debt and expense management features are designed to work offline. Your records are not uploaded to a developer-controlled server.
+​Debt Notes does not request the Android INTERNET permission. 
 
-5. Images and Signatures
+​We do not operate remote servers or cloud databases, and we never collect, transmit, sell, or share your personal or financial data with any third party.
 
-If you choose to add images or signatures, they are used only for the records you create in the application. They are not intentionally transmitted to the developer or administrator.
+​The app contains no third-party analytics SDKs, tracking scripts, or advertising networks.
 
-6. Notifications
+​2. Permissions Used
 
-If notification permission is enabled, the application may use your device's notification system to provide reminders or other app-related notifications.
+​Debt Notes requests only the device permissions necessary for features you choose to use:
 
-7. Your Responsibility
+Permission
 
-Because your records are stored on your device, you are responsible for keeping your device secure and maintaining your own backups if needed.
+```Purpose```
 
-8. Changes to This Privacy Policy
+Notifications (POST_NOTIFICATIONS)
 
-If the application's data practices change in the future, this Privacy Policy will be updated accordingly.
+```Used solely to display local reminder alerts when a scheduled debt reminder time arrives.```
 
-9. Contact
+Exact Alarms (USE_EXACT_ALARM, SCHEDULE_EXACT_ALARM)
 
-For questions or concerns regarding this Privacy Policy, please contact the developer through the contact information provided in the application's About section or GitHub repository.
+```Used to trigger your scheduled payment or collection reminders at the exact date and time you select.```
 
----
+Boot Completed (RECEIVE_BOOT_COMPLETED)
 
-In simple terms:
-Debt Notes 2.1 does not collect your personal information and send it to the developer/admin. Your debt and expense records remain on your device and are used by the application for its intended features.
+```Used to restore your active scheduled reminders after your phone restarts.```
+
+Camera & Photo Picker (CAMERA)
+
+```Optional. Used only when you choose to take or attach a proof photo or receipt to a note.```
+
+
+3. Backups & Data Sharing
+
+​Debt Notes includes a built-in Backup / Export and Share backup tool in Settings. 
+
+​Portable JSON backup files (debt-notes-backup.json) are created or shared only when you manually initiate an export or share action using Android's system file picker or share sheet. 
+
+​You are in full control of where your exported backup files are stored or shared.
+
+​4. Data Retention & Deletion
+
+​Your records remain on your device for as long as you choose to keep them.
+
+​You can edit or delete any debt note, expense sheet, or attached proof image at any time directly inside the app.
+
+​Uninstalling the application or clearing the app's storage in your device settings permanently deletes all locally stored app data, except for any JSON backup files you have manually exported to your device storage.
+
+​5. Children's Privacy
+
+​Debt Notes does not collect or transmit personal data from any user of any age, including children.
+
+​6. Changes to This Privacy Policy
+
+​If we update this Privacy Policy in future versions of Debt Notes, the revised policy will be posted on this page with an updated effective date.
+
+​7. Contact Information
+
+​If you have any questions or feedback regarding this Privacy Policy or the Debt Notes application, please contact:
+
+​Developer: Mahi Yadav (rumahiyadav) 
+
+​Email: maheshyadavjangili@gmail.com 
+
+​Telegram: @mr_exit2 
+
+​Instagram: rumahiyadav
