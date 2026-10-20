@@ -34,16 +34,23 @@ Safeguard your records or move them to a new phone anytime by exporting, importi
 Use the app in English, Hindi (हिंदी), or Telugu (తెలుగు). Switch effortlessly between Light Mode and Dark Mode with 6 clean accent colors (Ocean, Emerald, Amber, Rose, Violet, and Cyan).
 
 **IMPORTANT NOTE**
+
 Debt Notes is a personal offline record-keeping and note-taking utility. It does not provide loans, credit lines, banking services, or payment processing.
 
 **DEVELOPER & SUPPORT**
+
 Developed by Mahi Yadav (rumahiyadav)
 Email: maheshyadavjangili@gmail.com
 
 
 **changelogs v(2.4.0):-**
+
 • Redesigned minimal editorial interface with Light and Dark themes
+
 • Upgraded alarm reminder engine with quick time presets and live test alarm
+
 • Added proof photo preview zoom and instant Undo for deleted notes
+
 • Improved Hindi and Telugu translations across all screens
+
 • Added first-launch privacy and terms consent dialog
