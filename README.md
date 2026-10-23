@@ -41,16 +41,3 @@ Debt Notes is a personal offline record-keeping and note-taking utility. It does
 
 Developed by Mahi Yadav (rumahiyadav)
 Email: maheshyadavjangili@gmail.com
-
-
-**changelogs v(1.3.7):-**
-
-• Redesigned minimal editorial interface with Light and Dark themes
-
-• Upgraded alarm reminder engine with quick time presets and live test alarm
-
-• Added proof photo preview zoom and instant Undo for deleted notes
-
-• Improved Hindi and Telugu translations across all screens
-
-• Added first-launch privacy and terms consent dialog
