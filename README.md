@@ -43,7 +43,7 @@ Developed by Mahi Yadav (rumahiyadav)
 Email: maheshyadavjangili@gmail.com
 
 
-**changelogs v(2.4.0):-**
+**changelogs v(1.3.7):-**
 
 • Redesigned minimal editorial interface with Light and Dark themes
 
