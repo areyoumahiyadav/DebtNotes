@@ -1,5 +1,7 @@
 Your debts, expenses, and financial records — all in one place.
 
+[![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/redirect.html?id=debtnotes)
+
 Debt Notes is a clean, minimal, and completely offline personal notebook designed to help you keep track of money you need to receive, money you need to pay, and your everyday expenses without clutter or complicated spreadsheets.
 
 Whether you are splitting bills with friends, lending money to a colleague, tracking shop credit, or logging daily household expenses, Debt Notes keeps every record organized and accessible right on your phone.
